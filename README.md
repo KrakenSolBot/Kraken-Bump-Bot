@@ -1,5 +1,5 @@
 <h1>Launching Kraken sol sniper soon.</h1>
-<h1># Kraken-Bump-Bot (pump.fun, radiyum)</h1>
+<h1># Kraken-Bump-Bot (pump.fun, raydium)</h1>
 Free to use bump bot for your pump fun tokens to appear on the main page.
       
 # Kraken-bump-bot             
