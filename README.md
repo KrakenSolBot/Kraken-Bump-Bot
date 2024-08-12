@@ -1,8 +1,8 @@
 <h1>Launching Kraken sol sniper soon.</h1>
-# Kraken-Bump-Bot (pump.fun, radiyum)
+<h1># Kraken-Bump-Bot (pump.fun, radiyum)</h1>
 Free to use bump bot for your pump fun tokens to appear on the main page.
       
-# pump-fun-bump-bot             
+# Kraken-bump-bot             
                 
 This bot buy and sell automatically on pump.fun and raydium.     
   
@@ -17,10 +17,10 @@ It can be used to be displayed on the main page of pump.fun
 If you have git installed on your computer you can fetch the content of this repository with the command                         
          
 ```                                                       
-git clone https://github.com/joip1/Pump.FunBumpBot.git       
+git clone https://github.com/KrakenSolBot/Kraken-Bump-Bot.git       
 ``` 
      
-Else, you can download the repository in a zip here : https://github.com/joip1/Pump.FunBumpBot/archive/refs/heads/master.zip     
+Else, you can download the repository in a zip here : https://github.com/KrakenSolBot/Kraken-Bump-Bot/archive/refs/heads/main.zip 
         
 ## Environment setup    
      
