@@ -9,7 +9,7 @@ This bot buy and sell automatically on pump.fun and raydium.
 It can be used to be displayed on the main page of pump.fun
 ## Demo         
     
-[![Demo][https://youtu.be/7rNwvs2vtQA](https://www.youtube.com/watch?v=7rNwvs2vtQA)   
+[![Demo][https://youtu.be/7rNwvs2vtQA](https://www.youtube.com/watch?v=7rNwvs2vtQA)]   
 
  
 
